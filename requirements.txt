@@ -8,3 +8,4 @@ cvxpy
 ecos
 osqp
 scs
+matplotlib
