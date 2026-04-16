@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+openpyxl
+cvxpy
+ecos
+osqp
+scs
